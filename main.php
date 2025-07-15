@@ -11,4 +11,3 @@ if ($a > 10){
 }
 echo 'second tes';
 echo 'asdfafd';
-echo 'antoha tes';
