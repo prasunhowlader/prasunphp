@@ -9,3 +9,4 @@ $a =2;
 if ($a > 10){
     echo 'test';
 }
+echo 'second tes';
